@@ -1,0 +1,17 @@
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\Image Quantization.csproj.GenerateResource.cache
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\Image Quantization.csproj.CoreCompileInputs.cache
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\Image Quantization.csprojAssemblyReference.cache
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\Image Quantization.csprojAssemblyReference.cache
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\Image Quantization.csproj.GenerateResource.cache
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\college\3rd Year\First semester\Algorithms\Project\Image Quantization\Image Quantization\ImageQuantization\obj\Debug\ImageQuantization.pdb

@@ -1,0 +1,5 @@
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Release\Image Quantization.csprojAssemblyReference.cache
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Release\Image Quantization.csproj.GenerateResource.cache
+C:\Users\Shreif\Source\Repos\Image Quantization\Image Quantization\ImageQuantization\obj\Release\Image Quantization.csproj.CoreCompileInputs.cache
